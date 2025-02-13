@@ -33,7 +33,6 @@ This project implements **BinaryViT**, a Vision Transformer (ViT)-based **binary
 **Summary:** Presents the Data-efficient Image Transformer (DeiT), which improves the training efficiency of ViTs using a teacher-student distillation approach and data augmentation techniques.  
 **Link:** [https://arxiv.org/abs/2012.12877](https://arxiv.org/abs/2012.12877)  
 
----
 
 ---
 
