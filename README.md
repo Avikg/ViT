@@ -37,7 +37,8 @@ This project implements **BinaryViT**, a Vision Transformer (ViT)-based **binary
 ---
 
 ## **👜 Dataset**
-We use the **Dog vs Not Dog** dataset from Kaggle. The dataset contains:
+We use the **Dog vs Not Dog** dataset from Kaggle. **Dataset Link:** [Dog Vs Non Dog Dataset]([https://arxiv.org/abs/2012.12877](https://www.kaggle.com/datasets/danielshanbalico/dog-vs-not-dog)) 
+The dataset contains:
 - **Images of dogs** (`/dog/`)
 - **Images of non-dogs** (`/other/`)
 - A **CSV file (`labels.csv`)** containing image filenames and labels (`dog` or `other`).
