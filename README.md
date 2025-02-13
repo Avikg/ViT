@@ -20,6 +20,23 @@ This project implements **BinaryViT**, a Vision Transformer (ViT)-based **binary
 
 ---
 
+## **📘 Relevant Research Papers**
+### **1. Vision Transformer (ViT) - Foundational Paper**
+**Title:** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale  
+**Authors:** Alexey Dosovitskiy et al.  
+**Summary:** Introduces the Vision Transformer (ViT) model, demonstrating that a pure transformer architecture can achieve excellent results on image classification tasks when trained on large datasets.  
+**Link:** [https://arxiv.org/abs/2010.11929](https://arxiv.org/abs/2010.11929)  
+
+### **2. Data-Efficient Image Transformer (DeiT)**
+**Title:** Training data-efficient image transformers & distillation through attention  
+**Authors:** Hugo Touvron et al.  
+**Summary:** Presents the Data-efficient Image Transformer (DeiT), which improves the training efficiency of ViTs using a teacher-student distillation approach and data augmentation techniques.  
+**Link:** [https://arxiv.org/abs/2012.12877](https://arxiv.org/abs/2012.12877)  
+
+---
+
+---
+
 ## **👜 Dataset**
 We use the **Dog vs Not Dog** dataset from Kaggle. The dataset contains:
 - **Images of dogs** (`/dog/`)
