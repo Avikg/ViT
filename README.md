@@ -117,7 +117,7 @@ test_img_path = "/kaggle/input/a/other/default/1/sample.jpg"
 ---
 
 ## **📊 Example Visualization**
-![Attention Map](https://via.placeholder.com/300)  
+![Attention Map](attention_map.png)  
 🔍 **Darker regions = Model's focus areas!**
 
 ---
